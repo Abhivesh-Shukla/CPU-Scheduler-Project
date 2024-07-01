@@ -65,10 +65,3 @@ The CPU Scheduler Project is designed to simulate and visualize different CPU sc
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements. Ensure your code follows the project's coding standards and include relevant tests.
-
-
----
-
-Feel free to explore and contribute to this project. If you encounter any issues or have suggestions, please open an issue on GitHub.
-
-For more details, visit the [CPU Scheduler Project repository](https://github.com/sukhum29/CPU-Scheduler-Project).
