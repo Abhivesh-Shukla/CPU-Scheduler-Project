@@ -10,7 +10,6 @@ Welcome to the CPU Scheduler Project repository! This project demonstrates vario
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -36,7 +35,7 @@ The CPU Scheduler Project is designed to simulate and visualize different CPU sc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sukhum29/CPU-Scheduler-Project.git
+   git clone https://github.com/Abhivesh-Shukla/CPU-Scheduler-Project.git
    ```
 2. Navigate to the project directory and compile the code:
    ```bash
